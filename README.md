@@ -41,6 +41,20 @@ This serves as a practical platform for studying **optimization, control, and em
 - **Bitcraze firmware:** Customized to support TinyMPC controller running in a separate thread
 
 ---
+## 📸 Screenshots
+
+![Crazyflie Initialization](media/4.jpg)
+![Crazyflie Hover](media/5.jpg)
+![Crazyflie in Motion](media/6.jpg)
+
+
+## 🎬 Demo Videos
+
+- [▶️ Attach the battery](media/attach_the_battery.mp4)
+- [▶️ Power on sequence](media/power_on.mp4)
+- [▶️ Normal flight demo](media/normal_flight.mp4)
+
+---
 
 ## 📐 Modeling & Control Design
 
